@@ -857,14 +857,14 @@ en-GB:
     order_information: Order Information
     order_mailer:
       cancel_email:
-        dear_customer: Dear Customer,\n
+        dear_customer: Dear Customer,
         instructions: Your order has been CANCELED.  Please retain this cancellation information for your records.
         order_summary_canceled: Order Summary [CANCELED]
         subject: Cancellation of Order
         subtotal:
         total:
       confirm_email:
-        dear_customer: Dear Customer,\n
+        dear_customer: Dear Customer,
         instructions: Please review and retain the following order information for your records.
         order_summary: Order Summary
         subject: Order Confirmation
@@ -1127,7 +1127,7 @@ en-GB:
     shipment_details:
     shipment_mailer:
       shipped_email:
-        dear_customer: Dear Customer,\n
+        dear_customer: Dear Customer,
         instructions: Your order has been shipped
         shipment_summary: Shipment Summary
         subject: Shipment Notification
