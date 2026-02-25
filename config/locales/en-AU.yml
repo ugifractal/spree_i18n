@@ -307,6 +307,8 @@ en-AU:
       send_instructions:
       unlocked:
     user_passwords:
+      admin_user:
+        send_instructions:
       user:
         cannot_be_blank:
         send_instructions:

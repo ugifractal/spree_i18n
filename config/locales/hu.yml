@@ -307,6 +307,8 @@ hu:
       send_instructions: Pár percen belül emailt fog kapni fiókja feloldásának részleteivel.
       unlocked: A fiókját sikeresen feloldotta! Most már bejelentkezhet.
     user_passwords:
+      admin_user:
+        send_instructions: Pár percen belül emailt fog kapni jelszava visszaállításának részleteivel.
       user:
         cannot_be_blank: A jelszó nem lehet üres.
         send_instructions: Pár percen belül emailt fog kapni jelszava visszaállításának részleteivel.
