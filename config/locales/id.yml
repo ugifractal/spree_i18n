@@ -119,7 +119,7 @@ id:
       spree/store:
         mail_from_address:
         meta_description:
-        meta_keywords: 
+        meta_keywords:
         name: Nama
         seo_title: Judul SEO
         url:
@@ -307,6 +307,8 @@ id:
       send_instructions: Anda akan menerima email dengan instruksi tentang bagaimana caranya untuk mengaktifkan akun yang terkunci beberapa menit lagi.
       unlocked: Akun Anda telah tidak terkunci lagi. Anda sekarang telah masuk sistem.
     user_passwords:
+      admin_user:
+        send_instructions: Anda akan menerima email dengan instruksi tentang bagaimana caranya untuk mengganti ulang kata sandi Anda beberapa menit lagi.
       user:
         cannot_be_blank: Kata sandi Anda tidak boleh kosong
         send_instructions: Anda akan menerima email dengan instruksi tentang bagaimana caranya untuk mengganti ulang kata sandi Anda beberapa menit lagi.
